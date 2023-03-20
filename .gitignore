@@ -1,3 +1,7 @@
-*.log
-build/
-temp-*
+#tout ignorer
+/*
+#ne pas ignorer
+!.gitignore
+!readme.md
+!logo*
+!/TESTS
